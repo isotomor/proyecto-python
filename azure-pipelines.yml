@@ -18,7 +18,6 @@ strategy:
       python.version: '3.6'
     Python37:
       python.version: '3.7'
-  parallel: none
 
 steps:
 - task: UsePythonVersion@0
